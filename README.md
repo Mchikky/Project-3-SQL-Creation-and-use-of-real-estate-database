@@ -1,2 +1,6 @@
 # SQL
 Property sales
+SELECT
+FROM
+WHERE
+CTE
