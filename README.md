@@ -13,7 +13,7 @@ OpenClassrooms
 
 ## Data PREPARATION
 - Normalize data observing the 3 normal forms
-INF - removes repeated groups from a table to gurantee atomicity,
+- INF - removes repeated groups from a table to gurantee atomicity,
 2NF - Lessens redundancy by eliminating partial redundancies
 3NF - Reduces data duplication by removing transitive dependancies
 - Identify primary key, secondary key, remove duplicates, eliminate redundant data, isolate relationships using database normalization
