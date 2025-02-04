@@ -13,9 +13,9 @@ OpenClassrooms: 3 Excel documents
 
 ## Data preparation
 - Normalize data observing the 3 normal forms
-- 1. 1NF- removes repeated groups from a table to gurantee atomicity,
-- 2. 2NF- Lessens redundancy by eliminating partial redundancies
-- 3. 3NF- Reduces data duplication by removing transitive dependancies
+  1. 1NF- removes repeated groups from a table to gurantee atomicity,
+  2. 2NF- Lessens redundancy by eliminating partial redundancies
+  3. 3NF- Reduces data duplication by removing transitive dependancies
 - Identify primary key, secondary key, remove duplicates, eliminate redundant data, isolate relationships using database normalization
 - Categorize data into 3 excel spreadsheets: bien (property), sales (ventes), and commune (city)
 - Link tables through primary key and secondary keys using HLOOKUP function in Excel
