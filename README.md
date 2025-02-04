@@ -13,9 +13,9 @@ OpenClassrooms: 3 Excel documents
 
 ## Data preparation
 - Normalize data observing the 3 normal forms
-- 1NF - removes repeated groups from a table to gurantee atomicity,
-- 2NF - Lessens redundancy by eliminating partial redundancies
-- 3NF - Reduces data duplication by removing transitive dependancies
+1NF- removes repeated groups from a table to gurantee atomicity,
+2NF- Lessens redundancy by eliminating partial redundancies
+3NF- Reduces data duplication by removing transitive dependancies
 - Identify primary key, secondary key, remove duplicates, eliminate redundant data, isolate relationships using database normalization
 - Categorize data into 3 excel spreadsheets: bien (property), sales (ventes), and commune (city)
 - Link tables through primary key and secondary keys using HLOOKUP function in Excel
@@ -24,12 +24,12 @@ OpenClassrooms: 3 Excel documents
 ## Data analysis and insights
 1. Total number of appartments sold in the first quarter of 2020.
 2. Proportion of appartment sold by number of rooms
-- List of 10 departments where the price of square metre is the most expensive
-- Price of an average square metre of houses in Ile de France
-- List of the 10 most expensive appartments, theor departments and number of square metres
-- Rate of change in sales number between first and second quarter in 2020
-- List of cities where the number of sales increased at least 20% between first and second quarter of 2020
-- Difference in price percentage of square metre between an appartment of 2 rooms and an appartment of 3 rooms
-- Average value of property for the 3 top cities in departments 6, 13, 59 and 69
+3. List of 10 departments where the price of square metre is the most expensive
+4. Price of an average square metre of houses in Ile de France
+5. List of the 10 most expensive appartments, theor departments and number of square metres
+6. Rate of change in sales number between first and second quarter in 2020
+7. List of cities where the number of sales increased at least 20% between first and second quarter of 2020
+8. Difference in price percentage of square metre between an appartment of 2 rooms and an appartment of 3 rooms
+9. Average value of property for the 3 top cities in departments 6, 13, 59 and 69
 
 ## Recommendations
