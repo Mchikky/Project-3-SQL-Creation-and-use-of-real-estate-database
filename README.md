@@ -11,7 +11,7 @@ Create a real estate database using MySQL and query the database to retrieve som
 ## Data source
 OpenClassrooms
 
-## Data PREPARATION
+## Data preparation
 - Normalize data observing the 3 normal forms
 - 1NF - removes repeated groups from a table to gurantee atomicity,
 - 2NF - Lessens redundancy by eliminating partial redundancies
