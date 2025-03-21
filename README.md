@@ -1,4 +1,4 @@
-# Project 3: SQL - Creation and use of real estate database
+# Project 3: SQL - Creation and use of query to retrieve data from real estate database
 
 ## Objective:
 Create a real estate database using MySQL and query the database to retrieve some information.
