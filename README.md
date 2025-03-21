@@ -20,6 +20,8 @@ OpenClassrooms: 3 Excel documents
 - Categorize data into 3 excel spreadsheets: bien (property), sales (ventes), and commune (city)
 - Link tables through primary key and secondary keys using HLOOKUP function in Excel
 - Import the database into MySQL using reverse engineering
+  
+  ![Deng_Chikaodili_3_schema_052022](https://github.com/user-attachments/assets/fee47aea-f01b-45a2-a292-e92fdd3639df)
 
 ## Data analysis
 1. Total number of appartments sold in the first quarter of 2020.
