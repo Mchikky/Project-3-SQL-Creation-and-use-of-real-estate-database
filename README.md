@@ -40,12 +40,16 @@ OpenClassrooms: 3 Excel documents
 <img width="828" alt="5" src="https://github.com/user-attachments/assets/9b9960c3-9ef1-4e79-bb30-35cfe477b9e2" />
 
 6. Rate of change in sales figures between first and second quarter in 2020
+<img width="652" alt="6" src="https://github.com/user-attachments/assets/9928fb65-4e09-4135-a783-1c61dda639ee" />
 
 7. List of cities where the number of sales increased at least 20% between first and second quarter of 2020
+<img width="659" alt="7" src="https://github.com/user-attachments/assets/2b4bcb53-09f2-45e0-98b5-79652c95cf8a" />
 
 8. Difference in price percentage of square metre between an appartment of 2 rooms and an appartment of 3 rooms
+<img width="654" alt="8" src="https://github.com/user-attachments/assets/c4466f41-8c0c-4e7a-845f-74f4177bf21d" />
 
 9. Average value of property for the 3 top cities in departments 6, 13, 33, 59 and 69.
+<img width="646" alt="9" src="https://github.com/user-attachments/assets/5df0d6b0-c878-4d0d-a4d0-9dd8c94387c5" />
 
 ## Insights
 1. Total number of appartment sold in the first quarter of 2020 is 30897
