@@ -33,7 +33,7 @@ OpenClassrooms: 3 Excel documents
 3. List of 10 departments where the price of square metre is the most expensive
 <img width="846" alt="3" src="https://github.com/user-attachments/assets/28004d9b-bdac-4bf3-8b7e-267a4ba87490" />
 
-4. Price of an average square metre of houses in Ile de France
+4. Price of an average square metre of a house in Ile de France
 <img width="822" alt="4" src="https://github.com/user-attachments/assets/680062f5-13f1-45d0-b798-0b3d026d5337" />
 
 5. List of the 10 most expensive appartments, their departments and number of square metres
