@@ -1,12 +1,11 @@
 # Project 3: SQL - Creation and use of query to retrieve data from real estate database
+As a data analyst at Laplace Immo, a national network of real estate agencies; create a model to better predict the sales price of real estate properties using SQL.
 
-## Objective:
-Create a real estate database using MySQL and query the database to retrieve some information.
-
-## Mission:
-- Prepare a data dictionnary showing the codes, description, type and length of codes.
-- Design a schema showing relationships, entities and cardinalities of the database.
-- Query the database to answer some questions on the sales of houses and appartments.
+## Objective: Create a real estate database using MySQL and query the database to retrieve some information.
+1. Create a database collecting real estate and land transactions in France to better predict the sales price of real estate properties.
+2. Prepare a data dictionary showing the codes, description, type and length of codes.
+3. Build relational schema to clearly visualize the different entities, associations, and cardinalities of the database presenting normalized relational schema (it must follow the 3NF standard) for the database leading to the creation of different tables
+4. Run the queries to extract the required data.
 
 ## Data sources
 1. Data extracted from the open data site for Land Value Requests (DVF);
