@@ -10,10 +10,9 @@ Create a real estate database using MySQL and query the database to retrieve som
 
 ## Data source
 Data Sources:
-
-•	Data extracted from the open data site for Land Value Requests (DVF);
-•	INSEE data with population census results;
-•	data.gouv data on regions, with the French geographical reference system, communes, urban units, urban areas, departments, academies, regions.
+1. Data extracted from the open data site for Land Value Requests (DVF);
+2. INSEE data with population census results;
+3. data.gouv data on regions, with the French geographical reference system, communes, urban units, urban areas, departments, academies, regions.
 
 OpenClassrooms: 3 Excel documents
 
