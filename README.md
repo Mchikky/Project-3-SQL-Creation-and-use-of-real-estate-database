@@ -8,8 +8,7 @@ Create a real estate database using MySQL and query the database to retrieve som
 - Design a schema showing relationships, entities and cardinalities of the database.
 - Query the database to answer some questions on the sales of houses and appartments.
 
-## Data source
-Data Sources:
+## Data sources
 1. Data extracted from the open data site for Land Value Requests (DVF);
 2. INSEE data with population census results;
 3. data.gouv data on regions, with the French geographical reference system, communes, urban units, urban areas, departments, academies, regions.
