@@ -13,7 +13,6 @@ Data Sources:
 •	Data extracted from the open data site for Land Value Requests (DVF);
 •	INSEE data with population census results;
 •	data.gouv data on regions, with the French geographical reference system, communes, urban units, urban areas, departments, academies, regions.
-![image](https://github.com/user-attachments/assets/390f5250-0183-45bd-bf19-223286f004c4)
 OpenClassrooms: 3 Excel documents
 
 ## Data preparation
